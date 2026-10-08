@@ -53,7 +53,7 @@ Churn rates vary across monthly charge groups. The **$80–100** group has the h
 | $40–60               |     25.79% |
 | $60–80               |     32.21% |
 | $80–100              |     36.91% |
-| > $100               |     28.05% |
+| $100+               |     28.30% |
 
 This pattern suggests that customers with higher monthly charges may represent a higher-risk segment and should be evaluated in terms of perceived value and service experience.
 
