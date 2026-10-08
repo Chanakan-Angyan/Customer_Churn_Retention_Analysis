@@ -124,7 +124,7 @@ Customer_Churn_Retention_Analysis/
 
 Detailed findings and business interpretation are available in:
 
-`insights/customer_churn_insights.md`
+**File:** [insights/customer_churn_insights.md](insights/customer_churn_insights.md)
 
 ---
 
